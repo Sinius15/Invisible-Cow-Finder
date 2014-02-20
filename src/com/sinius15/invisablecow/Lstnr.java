@@ -1,7 +1,7 @@
 package com.sinius15.invisablecow;
 /**
  * @date 20-2-2014
- * @author Sijmen
+ * @author Sijmen 
  */
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
